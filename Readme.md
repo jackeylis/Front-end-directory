@@ -20,7 +20,7 @@
 - 增加大前端工具集（作者：聂微东）
 
 
-**关于我：一个热爱摸索新东西的小朋友（jckey）** 
+**关于我：一个热爱摸索新东西的小朋友（jckeyluo）** 
 
 <br>
 
@@ -253,7 +253,5 @@
 > **编程无他，唯手熟尔！**
 
 **声明：** 版权归原作者所有，我只是搬运工。
-
-**Photo Credit：**[Negative Space](https://unsplash.com/photos/6g0KJWnBhxg)
 
 
