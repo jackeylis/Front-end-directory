@@ -1,26 +1,26 @@
-# 在GitHub上收集的最全的前端资源汇总（包括前端学习、前端开发资源、前端求职面试等）
+# 我在GitHub上收集前端资源汇总（包括前端学习、前端开发资源、前端求职面试等）
 
 ![](https://ws1.sinaimg.cn/mw690/66101050ly1fdlmi7jd3zj21jk111wk9)
 
 > 个人结合github上各位大神分享的资源进行了简单的汇总整理，每一个条目下面都有丰富的资料，是前端学习、工作的好帮手。
 
-**说明:** 整理有不当之处, 欢迎 [pr](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/pulls) 或提出 [issue](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/issues)。
+**说明:** 整理有不当之处, 欢迎评论或提出意见
 
 ## 更新日志：
-**20170313：**
+**20220313：**
 - 增加JavaScript 资源大全中文版（作者：伯乐在线）
 
-**20161115：**
+**2022915：**
 - 增加JavaScript 全栈工程师培训教程（作者：阮一峰）
 
-**20161013：**
+**20221013：**
 - 增加 Google面试宝典（作者：John Washam）
 
-**20160916：**
+**20230216：**
 - 增加大前端工具集（作者：聂微东）
 
 
-**关于我：** 微博: [@青丰与名月](http://weibo.com/helloqingfeng)
+**关于我：一个热爱摸索新东西的小朋友（jckey）** 
 
 <br>
 
